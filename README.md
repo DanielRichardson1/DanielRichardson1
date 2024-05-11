@@ -5,8 +5,7 @@
 
 <br>
 
-## ![image](https://github.com/DanielRichardson1/DanielRichardson1/assets/105997622/a4788a94-b043-400a-b925-dc03be27f8f6)
-<b> About me</b>
+## <img src="https://github.com/DanielRichardson1/DanielRichardson1/assets/105997622/a4788a94-b043-400a-b925-dc03be27f8f6" width ="25"><b> About me</b>
 <br>
 
 - Senior Computer Engineering Student at the University of Pittsburgh
