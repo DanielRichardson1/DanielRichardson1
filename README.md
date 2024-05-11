@@ -5,7 +5,7 @@
 
 <br>
 
-## <img src="https://github.com/DanielRichardson1/DanielRichardson1/assets/105997622/a4788a94-b043-400a-b925-dc03be27f8f6" width ="25"><b> About me</b>
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHdxc3ZoMXB4M2YyOGozbDU0YjRsbWJwdnhhbWIwamhrcTg3ODB6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hB4Fg4nsE75DqRQCPt/source.gif" width ="25"><b> About me</b>
 <br>
 
 - Senior Computer Engineering Student at the University of Pittsburgh
