@@ -5,10 +5,7 @@
 
 <br>
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNlNHBjaGNnbjBreGI0M2huamRiaXhwOWYzMnd5d3NmOTg3bHdhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width ="25"><b> About me</b>
-<br>
-## **About me**
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNlNHBjaGNnbjBreGI0M2huamRiaXhwOWYzMnd5d3NmOTg3bHdhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif
+## <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"><b> About me</b>
 <br>
 
 - Senior Computer Engineering Student at the University of Pittsburgh
