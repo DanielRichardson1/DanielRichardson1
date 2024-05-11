@@ -5,8 +5,10 @@
 
 <br>
 
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNlNHBjaGNnbjBreGI0M2huamRiaXhwOWYzMnd5d3NmOTg3bHdhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width ="25"><b> About me</b>
+<br>
 ## **About me**
-
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNlNHBjaGNnbjBreGI0M2huamRiaXhwOWYzMnd5d3NmOTg3bHdhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif
 <br>
 
 - Senior Computer Engineering Student at the University of Pittsburgh
