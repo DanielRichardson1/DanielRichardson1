@@ -49,7 +49,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
-TODO: WHy is this showing only 30 contributions?
 <div align="center">
 
 <a href="https://github.com/DanielRichardson1/">
