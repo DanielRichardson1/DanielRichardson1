@@ -70,6 +70,6 @@
 <br>
 <br>
 
-## <b> Let's Connect!</b>🤝
+## <b>🤝 Let's Connect!</b>
 <br>
 TODO
