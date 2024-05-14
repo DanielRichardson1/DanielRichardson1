@@ -22,7 +22,7 @@
 
 <p align="center">
 
-- **Languages**:
+- **Back-End Development**:
  TODO: look at https://shields.io/ 
 
 <br>   
@@ -35,7 +35,7 @@
     
 <br>
 
-- **Softwares and Tools**:
+- **Software Tools**:
 
 </p>
 
