@@ -70,6 +70,6 @@
 <br>
 <br>
 
-## <b> Let's Connect!</b><img src="">
+## <b> Let's Connect!</b> 🙋‍♂️
 <br>
 TODO
