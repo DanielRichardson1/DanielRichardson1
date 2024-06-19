@@ -11,9 +11,7 @@
 - Senior Computer Engineering Student at the University of Pittsburgh
 - Pursuing a focus in Autonomous Systems
 - Member of the Fredrick Honors College
-- In my free-time I build websites for small to medium sized businesses 
 - Personal website: [click here!](https://www.google.com)
-- I’m currently open for an internship or a new job opportunity, this is [my resume](https://www.google.com)
 
 <br><br>
 
