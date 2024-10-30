@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on [link.com](link.com)
+- 👯 I’m looking to collaborate on [Auto_Repo_Readme](https://github.com/DanielRichardson1/Auto_Repo_Readme)
 
 - 🤝 I’m looking for help with [Stock Predictor](link.com)
 
